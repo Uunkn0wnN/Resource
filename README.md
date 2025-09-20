@@ -70,5 +70,8 @@ games/com.mojang/resource_packs
 
 ---
 
+## Support Me
+Donasi Untuk Mendukung admin: [Donasi](https://uunkn0wnn.github.io/donation-page/)
+
 ### Laporan Bug / Request Fitur  
 Silakan buka: [Resource Issues](https://github.com/Uunkn0wnN/Resource/issues)
