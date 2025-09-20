@@ -33,13 +33,13 @@ Klik tombol di atas **atau** buka [Releases](../../releases) untuk mendownload v
     "Wi Wok De Tok",
     "Mana 19 Juta Lapangan Pekerjaan Yang Kau Janjikan itu",
     "hidup jokowi",
-    "Subscribe to YouTube Hokage Santuy⁰
+    "Subscribe to YouTube Hokage Santuy"
   ]
 }
 ```
 
 ## splashses.json
-```
+```json
 {
 "splashes":[
   "Subscribe to YouTube Hokage Santuy",
@@ -52,7 +52,6 @@ Klik tombol di atas **atau** buka [Releases](../../releases) untuk mendownload v
  "Kalo Bisa Minta Kenapa Harus Nyari"
 ]
 }
-
 ```
 
 ---
