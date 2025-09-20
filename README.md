@@ -26,27 +26,33 @@ Klik tombol di atas **atau** buka [Releases](../../releases) untuk mendownload v
 
 ## loading_messages.json
 ```json
-[
-  "yntks",
-  "uh kaget",
-  "wi wok de tok",
-  "hidup jokowi",
-  "darawer dawet",
-  "tolong kaki saya sakit",
-  "helo im water",
-  "panasss"
-]
+{
+  "loading_messages":[
+    "Made by Sattt",
+    "Subscribe to YouTube Hokage Santuy",
+    "Wi Wok De Tok",
+    "Mana 19 Juta Lapangan Pekerjaan Yang Kau Janjikan itu",
+    "hidup jokowi",
+    "Subscribe to YouTube Hokage Santuy⁰
+  ]
+}
+```
 
-[
-  "yntks",
-  "uh kaget",
-  "wi wok de tok",
-  "hidup jokowi",
-  "darawer dawet",
-  "tolong kaki saya sakit",
-  "helo im water",
-  "panasss"
+## splashses.json
+```
+{
+"splashes":[
+  "Subscribe to YouTube Hokage Santuy",
+ "Itu Gak Rispek Banget Wok",
+ "must a nice must a nice",
+ "Made By SATTT",
+ "Subscribe to YouTube Hokage Santuy",
+ "Nungguin Yak",
+ "Jangan Lupa Like Dan Subscribe Youtube Hokage Santuy",
+ "Kalo Bisa Minta Kenapa Harus Nyari"
 ]
+}
+
 ```
 
 ---
